@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Netlify App
 
 test example at [here](https://chapters-video-player.netlify.app)
 
