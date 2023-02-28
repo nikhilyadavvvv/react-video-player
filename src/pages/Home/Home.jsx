@@ -29,7 +29,6 @@ const Home = () => {
     if (!videoState && currentTime !== 0) {
       getTimeStampDetail();
     }
-    console.log(videoState);
   }, [videoState]);
 
   useEffect(() => {
