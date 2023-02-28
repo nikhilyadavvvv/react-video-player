@@ -35,7 +35,7 @@ export const chapters = [
   },
   {
     start: "04:01",
-    end: "04:00",
+    end: "05:00",
     title: "Section 5",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae aliquam sapien, mollis viverra odio.",
@@ -43,17 +43,9 @@ export const chapters = [
       "ullam blandit porta mi, sed dapibus mi tempus ut. Fusce ante metus, lacinia dignissim enim a, fringilla iaculis lacus.",
   },
   {
-    start: "04:01",
-    end: "05:00",
-    title: "Section 6",
-    description:
-      "Quisque porta quis leo sed faucibus. Mauris finibus elit a lorem porta, sit amet volutpat magna blandit. Suspendisse id tempor est.",
-    description_en: "Donec fermentum fermentum tempor.",
-  },
-  {
     start: "05:01",
     end: "06:00",
-    title: "Section 7",
+    title: "Section 6",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae aliquam sapien, mollis viverra odio.",
     description_en:
@@ -62,7 +54,7 @@ export const chapters = [
   {
     start: "06:01",
     end: "07:00",
-    title: "Section 8",
+    title: "Section 7",
     description:
       "Quisque porta quis leo sed faucibus. Mauris finibus elit a lorem porta, sit amet volutpat magna blandit. Suspendisse id tempor est.",
     description_en: "Donec fermentum fermentum tempor.",
@@ -70,7 +62,7 @@ export const chapters = [
   {
     start: "07:01",
     end: "08:00",
-    title: "Section 9",
+    title: "Section 8",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae aliquam sapien, mollis viverra odio.",
     description_en:
@@ -79,7 +71,7 @@ export const chapters = [
   {
     start: "08:01",
     end: "09:56",
-    title: "Section 10",
+    title: "Section 9",
     description:
       "Quisque porta quis leo sed faucibus. Mauris finibus elit a lorem porta, sit amet volutpat magna blandit. Suspendisse id tempor est.",
     description_en: "Donec fermentum fermentum tempor.",
